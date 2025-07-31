@@ -1,0 +1,2 @@
+# mentionconfirmationBot
+Discordのメンバーが何回誰にメンションしたかを調べられるBotのソースコードです。ご自由にお使いください。
