@@ -26,6 +26,7 @@ Bash
 
 pip install discord.py
 3. Discordボットの準備
+
 Discord Developer Portalにアクセスし、新しいアプリケーションを作成します。
 
 「Bot」タブに移動し、Add Bot をクリックしてボットユーザーを作成します。
